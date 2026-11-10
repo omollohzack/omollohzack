@@ -1,4 +1,4 @@
-# Hi, I'm Zacharia Omollo (Lordgrim) 👋
+# Hi, I'm Zacharia Omollo👋
 
 **Full-Stack & Platform Engineer** — I build APIs, dashboards, and MVPs with JavaScript/TypeScript, and I ship tested, production-minded code. Based in Kenya (EAT, UTC+3), working remotely with clients and teams worldwide.
 
