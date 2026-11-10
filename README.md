@@ -19,7 +19,7 @@
 DeFi research project: a read-only arbitrage scanner and flash-loan contract suite for Arbitrum, built verification-first.
 
 - Python scanner + Solidity contracts (solc 0.8.20, compiles within the 24,576-byte deploy limit)
-- **38-test suite, all passing** — sizing optimisation, zero-fee flash-provider selection, and an expected-value execution gate
+- **31-test suite on `main`, extended to 38 (all passing) by the v3.6 profitability patch on its branch** — sizing optimisation, zero-fee flash-provider selection, and an expected-value execution gate
 - Includes a written profitability analysis: I measured the strategy's real break-even costs and documented why the naive route doesn't clear them. I publish the numbers, not hype.
 
 ## 💼 What I can build for you
