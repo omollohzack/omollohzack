@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00C853&center=true&vCenter=true&width=640&lines=AI+Engineer+%26+Full-Stack+Developer;Building+LLM+Apps+%26+AI+Agents;Open+Source+Contributor" alt="AI Engineer & Full-Stack Developer — Building LLM Apps & AI Agents — Open Source Contributor" />
 </p>
 
-**Full-Stack & Platform Engineer** — I build APIs, dashboards, and MVPs with JavaScript/TypeScript, and I ship tested, production-minded code. Based in Kenya (EAT, UTC+3), working remotely with clients and teams worldwide.
+**AI Engineer & Full-Stack Developer** — I build LLM applications, AI agents, APIs and dashboards with Python and TypeScript, and I ship tested, production-minded code. Based in Kenya (EAT, UTC+3), working remotely with clients and teams worldwide.
 
 🟢 **Available now** — open to remote roles and freelance builds.
 
