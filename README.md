@@ -50,4 +50,4 @@ The same work I offer freelance clients:
 - 🔗 LinkedIn: https://www.linkedin.com/in/odiwuor-zacharia
 - ✉️ Email: omollohzack2@gmail.com
 
-*If you're hiring for platform engineering, full-stack development, or AI-focused product work — or you have a build that needs doing — my inbox is open.*
+*If you're hiring for AI engineering, full-stack development, or AI-focused product work — or you have a build that needs doing — my inbox is open.*
