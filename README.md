@@ -1,4 +1,4 @@
-# Hi, I'm Zacharia Omollo👋
+# Hi, I'm Odiwuor Zacharia Omollo 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00C853&center=true&vCenter=true&width=640&lines=AI+Engineer+%26+Full-Stack+Developer;Building+LLM+Apps+%26+AI+Agents;Open+Source+Contributor" alt="AI Engineer & Full-Stack Developer — Building LLM Apps & AI Agents — Open Source Contributor" />
@@ -29,6 +29,11 @@ DeFi research project: a read-only arbitrage scanner and flash-loan contract sui
 - Python scanner + Solidity contracts (solc 0.8.20, compiles within the 24,576-byte deploy limit)
 - **31-test suite on `main`, extended to 38 (all passing) by the v3.6 profitability patch on its branch** — sizing optimisation, zero-fee flash-provider selection, and an expected-value execution gate
 - Includes a written profitability analysis: I measured the strategy's real break-even costs and documented why the naive route doesn't clear them. I publish the numbers, not hype.
+
+## ✍️ Writing
+
+- **[I Built a Flash-Loan Arbitrage Bot on Arbitrum — Then Proved It Loses Money](https://dev.to/omollohzack/i-built-a-flash-loan-arbitrage-bot-on-arbitrum-then-proved-it-loses-money-1b66)** — the measured post-mortem of the project above, published on DEV
+- More on DEV: [dev.to/omollohzack](https://dev.to/omollohzack)
 
 ## 💼 What I can build for you
 
