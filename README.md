@@ -12,11 +12,14 @@
 
 ## 🛠️ What I work with
 
-- Python
-- TypeScript
-- React
-- Node.js
-- Solidity / EVM tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,solidity,git,github,linux" alt="Tech stack icons" />
+</p>
+
+- **Frontend:** React, Vue, TypeScript, JavaScript
+- **Backend:** Node.js, REST APIs, Postgres, Firebase
+- **Platform & cloud:** AWS (SQS / SNS), microservices, idempotent event-driven design
+- **Also:** Python (automation, data tooling), Solidity (smart-contract development & testing)
 
 ## 🚀 Featured project
 
