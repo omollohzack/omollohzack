@@ -32,6 +32,8 @@ DeFi research project: a read-only arbitrage scanner and flash-loan contract sui
 
 ## ✍️ Writing
 
+- **[Compression of Knowledge: Can a Trillion-Parameter Model Fit in a Gigabyte?](https://doi.org/10.5281/zenodo.24492922)** — measured tests of a 1000× question: the lossless ceiling, the pruning cliff, a distillation failure, and the student-plus-store design that survived (preprint, Zenodo — DOI: 10.5281/zenodo.24492922); also on [academia.edu](https://independent.academia.edu/OmollohZack)
+- **[I Tried to Fit a Trillion-Parameter Model in a Gigabyte. The Measurements Said No.](https://dev.to/omollohzack/i-tried-to-fit-a-trillion-parameter-model-in-a-gigabyte-the-measurements-said-no-462)** — the developer write-up of the paper above, published on DEV
 - **[The Inhabitants Belong to the World, Not the Model](https://doi.org/10.5281/zenodo.24231543)** — the Project Genesis design paper (preprint, Zenodo — DOI: 10.5281/zenodo.24231543); also on [academia.edu](https://independent.academia.edu/OmollohZack)
 - **[I Built a Flash-Loan Arbitrage Bot on Arbitrum — Then Proved It Loses Money](https://dev.to/omollohzack/i-built-a-flash-loan-arbitrage-bot-on-arbitrum-then-proved-it-loses-money-1b66)** — the measured post-mortem of the project above, published on DEV
 - More on DEV: [dev.to/omollohzack](https://dev.to/omollohzack)
